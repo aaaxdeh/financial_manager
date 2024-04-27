@@ -5,7 +5,7 @@ Financial management begins with understanding one's income, expenses, savings, 
 
 Budgeting is a fundamental practice for responsible financial management. With the Personal Finance Manager, users can create monthly budgets for different expense categories and monitor their spending habits. By setting realistic budgets and comparing actual expenses to budgeted amounts, users can identify areas where they may need to adjust their spending and make informed decisions to achieve their financial goals. These insights empower users to make proactive adjustments to their financial strategies and work towards long-term financial stability.
 
-The algorithm for the code created is the following:
+### The algorithm for the code created is the following:
 1. User Registration:
   - User inputs their username and password.
   - A success message is displayed upon registration.
